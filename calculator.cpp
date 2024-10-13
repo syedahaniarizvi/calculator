@@ -8,7 +8,7 @@ int main() {
     cout << "Enter an operator (+, -, *, /): ";
     cin >> operation;
 
-    cout << "Enter two numbers: hghgh  ";
+    cout << "Enter two numbers: ";
     cin >> num1 >> num2;
 
     switch (operation) {
